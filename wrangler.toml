@@ -1,3 +1,0 @@
-# wrangler.toml – para o cron
-[triggers]
-crons = ["0 */2 * * *"]  # dispara /cron/ping-google.js a cada 2 h
